@@ -1,0 +1,32 @@
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\bin\Debug\TestTask.exe.config
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\bin\Debug\TestTask.exe
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\bin\Debug\TestTask.pdb
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\MainWindow.g.cs
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\App.g.cs
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TestTask_MarkupCompile.cache
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TestTask_MarkupCompile.lref
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\MainWindow.baml
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TestTask.g.resources
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TestTask.csproj.GenerateResource.Cache
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TestTask.exe
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TestTask.pdb
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TextRedactor.g.cs
+c:\users\bivan\documents\visual studio 2017\Projects\TestTask\TestTask\obj\Debug\TextRedactor.baml
+C:\Users\bivan\Desktop\TestTask\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\bivan\Desktop\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Users\bivan\Desktop\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\MainWindow.g.cs
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TextRedactor.g.cs
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\App.g.cs
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\MainWindow.baml
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TextRedactor.baml
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TestTask.g.resources
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TestTask.csproj.GenerateResource.Cache
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\Users\bivan\Desktop\TestTask\TestTask\obj\Debug\TestTask.pdb

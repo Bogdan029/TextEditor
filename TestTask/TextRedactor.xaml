@@ -1,0 +1,38 @@
+﻿<Window x:Class="TestTask.TextRedactor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestTask"
+        mc:Ignorable="d"
+        Title="TextRedactor" Height="550" Width="725"
+        Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="29.579"/>
+            <RowDefinition Height="467*"/>
+            <RowDefinition Height="22*"/>
+        </Grid.RowDefinitions>
+        <Menu Margin="0,0,0,2.684" Grid.RowSpan="2" >
+            <MenuItem Header="File"  Height="30"  >
+                <MenuItem Header="New" ></MenuItem>
+                <MenuItem Header="Open" Click="Open_Click" ></MenuItem>
+                <MenuItem Header="Save" Click="Save_Click" ></MenuItem>
+                <MenuItem Header="SaveAs..." Click="SaveAs_Click" ></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Exit" Click="Exit_Click"></MenuItem>
+            </MenuItem>
+           
+            <MenuItem Name="Refresh" Header="Refresh" Click="Refresh_Click"></MenuItem>
+
+        </Menu>
+        <RichTextBox Grid.Row="1" Grid.RowSpan="2" Name="richTextBox">
+            <FlowDocument>
+                <Paragraph>Hello</Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <TextBlock HorizontalAlignment="Stretch" Grid.Row="2"  Text="A"  Name="tbuser"  Background="LightGray" VerticalAlignment="Stretch" Margin="0,0,153,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Row="2"  Text="A"  Name="fileName"  Background="LightGray" VerticalAlignment="Stretch" Width="179"/>
+
+    </Grid>
+</Window>
